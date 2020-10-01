@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MineSweeper:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c20de17-3607-4235-af2f-0c715c91ec53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1huUcwE5Y9qYTw9Kq7gQjVLgwyW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sweeper" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\IdeaProjects\MineSweeper\src\main\resources\music" />
+      <recent name="C:\Users\Пользователь\IdeaProjects\MineSweeper\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\IdeaProjects\MineSweeper\src\main\java\sweeper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SweeperTest">
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="MineSweeper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SweeperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MineSweeper" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SweeperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SweeperTest.exploded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MineSweeper" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SweeperTest" />
+      <option name="METHOD_NAME" value="exploded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SweeperTest.incNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MineSweeper" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SweeperTest" />
+      <option name="METHOD_NAME" value="incNums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SweeperTest.victory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MineSweeper" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SweeperTest" />
+      <option name="METHOD_NAME" value="victory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SweeperTest" />
+        <item itemvalue="JUnit.SweeperTest.exploded" />
+        <item itemvalue="JUnit.SweeperTest.victory" />
+        <item itemvalue="Application.View" />
+        <item itemvalue="JUnit.SweeperTest.incNums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c20de17-3607-4235-af2f-0c715c91ec53" name="Default Changelist" comment="" />
+      <created>1600860553835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600860553835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" width="816" height="774" key="#Intentions" timestamp="1601562289324">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" width="816" height="774" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1601562289324" />
+    <state x="1073" y="202" key="#Project_Structure" timestamp="1601375531070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1073" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1601375531070" />
+    <state x="608" y="450" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601375487508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="608" y="450" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601375487508" />
+    <state x="1307" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1601569357748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1307" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601569357748" />
+    <state x="798" y="335" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1601548997384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="798" y="335" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601548997384" />
+    <state x="1112" y="361" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600875518527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1112" y="361" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600875518527" />
+    <state x="756" y="399" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601374172551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="399" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1601374172551" />
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom" timestamp="1601571647293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601571647293" />
+    <state width="1877" height="228" key="GridCell.Tab.0.center" timestamp="1601571647293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601571647293" />
+    <state width="1877" height="228" key="GridCell.Tab.0.left" timestamp="1601571647292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601571647292" />
+    <state width="1877" height="228" key="GridCell.Tab.0.right" timestamp="1601571647293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601571647293" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1601561386724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601561386724" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1601561386724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601561386724" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1601561386724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601561386724" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1601561386724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601561386724" />
+    <state x="581" y="163" key="SettingsEditor" timestamp="1601373316413">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="581" y="163" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1601373316413" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600936207679">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600936207679" />
+    <state x="779" y="147" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600955449607">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="147" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600955449607" />
+    <state x="1056" y="308" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601560210189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1056" y="308" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601560210189" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1" timestamp="1601549043234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1601549043234" />
+    <state x="1081" y="480" key="extract.method.dialog" timestamp="1600956344172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1081" y="480" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600956344172" />
+    <state x="1153" y="254" key="run.anything.popup" timestamp="1601571534438">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1153" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601571534438" />
+    <state x="1165" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1600879206983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1165" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600879206983" />
+  </component>
+</project>
